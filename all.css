@@ -1,3 +1,10 @@
 h1{
     color: #d59696;
 }
+div{
+    width: 100px;
+    height: 100px;
+    background-color: #30da7f;
+    color: #000;
+    margin: 0 auto;
+}
